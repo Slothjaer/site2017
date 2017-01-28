@@ -1,0 +1,12 @@
+{
+  "name": "site2017",
+  "version": "1.0.0",
+  "description": "My Portfolio Site",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Jim Lawler",
+  "license": "ISC"
+}
